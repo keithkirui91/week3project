@@ -1,0 +1,65 @@
+html{
+    background-color: black;
+    width: 100%;
+}
+
+header{
+    width: 100%;
+    height: 22rem;
+    text-align: center;
+    color: #fff;
+    
+
+}
+
+.about-us{
+    text-align: center;
+    background-color: rgb(245, 244, 244);
+    color: rgb(61, 19, 19);
+    
+    height: 10rem;
+
+}
+
+.ser-vice{
+    text-align: center;
+    background-color: rgb(211, 176, 124);
+    color: black;
+    height: 14rem;
+    
+
+}
+
+.what-we-do{
+    align-items: inline;
+    display: inline;
+    
+    height: 8rem;
+}
+.portfolio{
+    height: 16rem;
+    background-color: red;
+    text-align: center;
+    
+    color: seashell;
+}
+
+.contact-us{
+    background-color: burlywood;
+    text-align: center;
+    color: aliceblue;
+    
+
+}
+footer{
+    text-align: center;
+    color: black;
+    background-color: #fff;
+    
+}
+ul{
+    text-decoration: none;
+    display: inline;
+    
+}
+

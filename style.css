@@ -73,11 +73,21 @@ footer{
 ul{
     text-decoration: none;
     display: inline;
-    word-spacing: 7rem;
+    word-spacing: 4rem;
     width: 100%;
+    font-size: 1.2rem;
 }
 li{
     display: inline;
-    color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    
 }
+.media{
+    position:absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-53%, -50%);
+    margin-top: 10px;
+}
+
 

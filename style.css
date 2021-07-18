@@ -61,8 +61,8 @@ header{
 footer{
     margin-top: 0;
     text-align: center;
-    color: black;
-    background-color: rgb(221, 192, 192);
+    color: rgb(255, 0, 0);
+    background-color: rgb(56, 29, 29);
     
 }
 .my-row{

@@ -43,7 +43,15 @@ h2{
     height: 15rem;
     line-height: 3rem;
 }
-
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.row .column{
+    flex: 33.3%;
+    width: auto;
+}
 .portfolio{
     height: 19rem;
     background-color: rgb(138, 135, 135);
@@ -61,32 +69,34 @@ h2{
     
 
 }
-.containor{
-    text-align: left;
 
-}
 form{
     margin-left: 10rem;
+
 }
 .name{
-    width: 35%;
+    width: 36%;
+    border-radius: 6px;
 }
 .email{
-    width:35% ; 
+    width:36% ; 
+    border-radius: 6px;
 }
 .message{
     height: 7rem;
     width: 75%;
+    border-radius: 6px;
 
 }
 footer{
-    margin-top: 0;
-    text-align: center;
+ 
     background-color: rgb(255, 255, 255);
     
 }
 .col-sm{
     background-color: rgb(207, 207, 207);
+    height: 6rem;
+    width: 30%;
     display: inline;
 }
 
@@ -104,12 +114,15 @@ li{
 }
 .socials{
     padding: 2rem;
+    text-align: center;
 }
-.writing{
-    bottom: 0;
-    padding: 2rem;
+.writing-s{
+    margin-top: 2rem;
     font-size: .8rem;
     color: black;
+    text-align: center;
+    
+    
 }
 
 

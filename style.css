@@ -121,6 +121,7 @@ img{
     left: 2rem;
     height: 27rem;
     line-height: 3rem;
+    color: #fff;
     
 
 }
@@ -148,6 +149,9 @@ form{
     border-radius: 6px;
     background: none;
 
+}
+::placeholder{
+    color: #fff;
 }
 footer{
  

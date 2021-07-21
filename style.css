@@ -104,10 +104,15 @@ h3{
 
 }
 .portfolio{
-    height: 23rem;
+    height: 23rem; 
     background-color: rgb(255, 255, 255);
     text-align: center;
     color: rgb(0, 0, 0);
+}
+.container{
+    margin-left: 11rem;
+    width: 72%;
+    align-self: center;
 }
 
 img{

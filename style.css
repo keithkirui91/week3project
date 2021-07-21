@@ -1,6 +1,8 @@
 html{
     background-color: none;
     width: 100%;
+    padding: 0;
+    margin: 0;
 }
 
 header{
@@ -11,6 +13,15 @@ header{
     background-color: black;
     color: #fff;
     
+
+}
+.header-txt{
+    padding-top: 7rem;
+    font-size: 2rem;
+
+}
+.bottom-header-txt{
+    font-size: .7rem;
 
 }
 h2{
@@ -41,25 +52,47 @@ h2{
     background-color: rgb(190, 190, 190);
     color: rgb(0, 0, 0);
     height: 15rem;
-    line-height: 3rem;
+    
 }
 .row{
     display: flex;
     flex-wrap: wrap;
-    text-align: center;
+    width: 100%;
+    
 }
 .row .column{
     flex: 33.3%;
     width: auto;
-}
-.portfolio{
-    height: 19rem;
-    background-color: rgb(138, 135, 135);
+    height: 10rem;
     text-align: center;
     
+}
+h3{
+    margin-bottom: 0;
+}
+.first-col{
+    background-color: aquamarine;
+
+}
+.second-col{
+    background-color: bisque;
+
+}
+.third-col{
+    background-color: aliceblue;
+
+}
+.portfolio{
+    height: 23rem;
+    background-color: rgb(138, 135, 135);
+    text-align: center;
     color: seashell;
 }
 
+img{
+    max-height: 9rem;
+    width: 14rem;
+}
 .contact-us{
     background-color: rgb(70, 70, 70);
     left: 2rem;
@@ -75,15 +108,17 @@ form{
 
 }
 .name{
+    height: 2rem;
     width: 36%;
     border-radius: 6px;
 }
 .email{
+    height: 2rem;
     width:36% ; 
     border-radius: 6px;
 }
 .message{
-    height: 7rem;
+    height: 10rem;
     width: 75%;
     border-radius: 6px;
 

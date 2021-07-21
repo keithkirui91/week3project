@@ -75,7 +75,7 @@ h2{
     
 }
 .row .column{
-    flex: 33.3%;
+    flex: 20%;
     width: auto;
     height: 10rem;
     text-align: center;
@@ -97,16 +97,22 @@ h3{
     background-color: rgb(255, 255, 255);
 
 }
+.whatwedo-img{
+    height: 5rem;
+    width: 5rem;
+
+}
 .portfolio{
     height: 23rem;
-    background-color: rgb(138, 135, 135);
+    background-color: rgb(255, 255, 255);
     text-align: center;
-    color: seashell;
+    color: rgb(0, 0, 0);
 }
 
 img{
-    max-height: 9rem;
-    width: 14rem;
+    max-height: 12rem;
+    width: 12rem;
+
 }
 .contact-us{
     background: url(img/c_image.jpg);

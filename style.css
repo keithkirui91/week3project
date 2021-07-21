@@ -1,5 +1,5 @@
 html{
-    background: url(img/h_img.jpg);
+    
     width: 100%;
     padding: 0;
     margin: 0;
@@ -7,16 +7,22 @@ html{
 
 header{
     width: 100%;
-    height: 29rem;
+    height: 40rem;
     line-height: 4rem;
     text-align: center;
-    background-color: black;
+    background: url(img/h_img.jpg);
+    background-size: cover;
     color: #fff;
     
 
 }
-.header-txt{
+.logo-img {
     padding-top: 7rem;
+    height: 5rem;
+    width: 5rem;
+}
+.header-txt{
+    padding-top: 1rem;
     font-size: 2rem;
 
 }
@@ -24,13 +30,19 @@ header{
     font-size: .7rem;
 
 }
+.mou-se {
+    padding-top: 6rem;
+    height: 2rem;
+    width: 1.4rem;
+}
 h2{
     text-align: center;
+    
 }
 
 .about-us{
     text-align: center;
-    background-color: rgb(245, 244, 244);
+    background-color: rgb(255, 255, 255);
     color: rgb(61, 19, 19);
     height: 14rem;
     line-height: 3rem;
@@ -40,16 +52,18 @@ h2{
 .ser-vice{
     text-align: center;
     background: url(img/s_image.jpg);
-    color: rgb(109, 109, 109);
+    color: rgb(255, 255, 255);
     height: 19rem;
     line-height: 3rem;
     
 
 }
-
+.service-h{
+    padding-top: 2rem;
+}
 .what-we-do{
     
-    background-color: rgb(190, 190, 190);
+    background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     height: 15rem;
     
@@ -67,6 +81,7 @@ h2{
     text-align: center;
     
 }
+
 h3{
     margin-bottom: 0;
 }

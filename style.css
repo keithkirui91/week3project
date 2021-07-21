@@ -1,5 +1,5 @@
 html{
-    background-color: none;
+    background: url(img/h_img.jpg);
     width: 100%;
     padding: 0;
     margin: 0;
@@ -39,7 +39,7 @@ h2{
 
 .ser-vice{
     text-align: center;
-    background-color: rgb(211, 176, 124);
+    background: url(img/s_image.jpg);
     color: rgb(109, 109, 109);
     height: 19rem;
     line-height: 3rem;
@@ -71,15 +71,15 @@ h3{
     margin-bottom: 0;
 }
 .first-col{
-    background-color: aquamarine;
+    background-color: rgb(255, 255, 255);
 
 }
 .second-col{
-    background-color: bisque;
+    background-color: rgb(255, 255, 255);
 
 }
 .third-col{
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
 
 }
 .portfolio{
@@ -94,7 +94,7 @@ img{
     width: 14rem;
 }
 .contact-us{
-    background-color: rgb(70, 70, 70);
+    background: url(img/c_image.jpg);
     left: 2rem;
     color: aliceblue;
     height: 22rem;

@@ -219,4 +219,380 @@ li{
     
 }
 
+@media all and (max-width :415px) {
+    .about-us{
+        height: 16rem;
+        line-height: 1.2rem;
+    
+    }
+    
+    .ser-vice{
+        height: 24rem;
+        line-height: 1.5rem;
+    }
+    .service-h{
+        padding-top: 4rem;
+    }
+    .what-we-do{
+        height: 39rem;     
+    }
+    .row{
+      display: inline;
+      left: 2rem;
+        
+    }
 
+ 
+    .whatwedo-img{
+        height: 6rem;
+        width: 10rem;
+    
+    }
+    .row .column{
+        
+        display: inline;
+        
+    }
+    #colOne{
+        position: absolute;
+        left: 7rem;
+        margin-top: 2rem;
+       
+    }
+    #colTwo{
+        position: absolute;
+        left: 7rem;
+        margin-top: 15rem;
+       
+    }
+    
+    #colThree{
+        position: absolute;
+        left: 6.5rem;
+        margin-top: 26rem;
+       
+    }
+    
+    
+    .portfolio{  
+        height: 40rem; 
+    }
+  
+    .popup{
+        
+        margin-left: 0rem;
+        margin-top: 2rem;
+        
+    }
+    #portfolioImgOne{
+        position: absolute;
+        left: 3rem;
+        
+    }
+    #portfolioImgTwo{
+        position: absolute;
+        left: 13rem;
+        
+    }
+    #portfolioImgThree{
+        position: absolute;
+        left: 3rem;
+        margin-top: 9rem;
+        
+    }
+    #portfolioImgFour{
+        position: absolute;
+        left: 13rem;
+        margin-top: 9rem;
+        
+    }
+    #portfolioImgFive{
+        position: absolute;
+        left: 3rem;
+        margin-top: 18rem;
+        
+    }
+    #portfolioImgSix{
+        position: absolute;
+        left: 13rem;
+        margin-top: 18rem;
+        
+    }
+    #portfolioImgSeven{
+        position: absolute;
+        left: 3rem;
+        margin-top: 27rem;
+
+    }
+    #portfolioImgEight{
+        position: absolute;
+        left: 13rem;
+        margin-top: 27rem;
+        
+    }
+    img{
+        max-height: 7rem;
+        width: 8rem;
+       
+    }
+ 
+  
+    
+    form{
+        margin-left: 1rem;
+    }  
+    ul{
+        word-spacing: 0rem;
+        
+    }
+    .socials{
+        padding-top: 3rem;
+        text-align: center;
+    }
+    .socials-img{
+        height: 1rem;
+        width: 1rem;
+    }
+}
+
+@media (min-width:539px) and (max-width: 541px) {
+    .about-us{
+        height: 16rem;
+        line-height: 1.2rem;
+    
+    }
+    
+    .ser-vice{
+        height: 24rem;
+        line-height: 1.5rem;
+    }
+    .service-h{
+        padding-top: 4rem;
+    }
+    .what-we-do{
+        height: 15rem;     
+    }
+    #colOne{
+        position: absolute;
+        left: 2rem;
+        
+       
+    }
+    #colTwo{
+        position: absolute;
+        left: 13rem;
+        
+       
+    }
+    
+    #colThree{
+        position: absolute;
+        left: 23rem;
+       
+       
+    }
+
+    .portfolio{  
+        height: 50rem; 
+        width: 100%;
+        
+    }
+    img{
+        max-height: 10rem;
+        width: 12rem;
+
+       
+    }
+    .popup{
+        
+        margin-left: 1.6rem;
+        margin-top: 3rem;
+        
+    }
+    #portfolioImgOne{
+        position: absolute;
+        left: 3rem;
+        
+    }
+    #portfolioImgTwo{
+        position: absolute;
+        left: 19rem;
+        
+    }
+    #portfolioImgThree{
+        position: absolute;
+        left: 3rem;
+        margin-top: 12rem;
+        
+    }
+    #portfolioImgFour{
+        position: absolute;
+        left: 19rem;
+        margin-top: 12rem;
+        
+    }
+    #portfolioImgFive{
+        position: absolute;
+        left: 3rem;
+        margin-top: 26rem;
+        
+    }
+    #portfolioImgSix{
+        position: absolute;
+        left: 19rem;
+        margin-top: 26rem;
+        
+    }
+    #portfolioImgSeven{
+        position: absolute;
+        left: 3rem;
+        margin-top: 38rem;
+
+    }
+    #portfolioImgEight{
+        position: absolute;
+        left: 19rem;
+        margin-top: 38rem;
+        
+    }
+    form{
+        margin-left: 1rem;
+    }
+    ul{
+        word-spacing: .5rem;
+        
+    }
+    .socials{
+        padding-top: 3rem;
+        text-align: center;
+    }
+    .socials-img{
+        height: 1rem;
+        width: 1rem;
+    }
+}
+@media (min-width:767px) and (max-width: 769px) {
+    .about-us{
+        height: 16rem;
+        line-height: 1.2rem;
+    
+    }
+    
+    .ser-vice{
+        height: 24rem;
+        line-height: 1.5rem;
+    }
+    .service-h{
+        padding-top: 4rem;
+    }
+    .what-we-do{
+        height: 15rem;     
+    }
+    #colOne{
+        position: absolute;
+        left: 5rem;
+        
+       
+    }
+    #colTwo{
+        position: absolute;
+        left: 21rem;
+        
+       
+    }
+    
+    #colThree{
+        position: absolute;
+        left: 35rem;
+       
+       
+    }
+
+    .portfolio{  
+        height: 72rem; 
+        width: 100%;
+        
+    }
+    img{
+        max-height: 15rem;
+        width: 17rem;
+
+       
+    }
+    .popup{
+        
+        margin-left: 4rem;
+        margin-top: 5rem;
+        
+    }
+    #portfolioImgOne{
+        position: absolute;
+        left: 3rem;
+        
+    }
+    #portfolioImgTwo{
+        position: absolute;
+        left: 30rem;
+        
+    }
+    #portfolioImgThree{
+        position: absolute;
+        left: 3rem;
+        margin-top: 18rem;
+        
+    }
+    #portfolioImgFour{
+        position: absolute;
+        left: 30rem;
+        margin-top: 18rem;
+        
+    }
+    #portfolioImgFive{
+        position: absolute;
+        left: 3rem;
+        margin-top: 36rem;
+        
+    }
+    #portfolioImgSix{
+        position: absolute;
+        left: 30rem;
+        margin-top: 36rem;
+        
+    }
+    #portfolioImgSeven{
+        position: absolute;
+        left: 3rem;
+        margin-top: 54rem;
+
+    }
+    #portfolioImgEight{
+        position: absolute;
+        left: 30rem;
+        margin-top: 54rem;
+        
+    }
+    form{
+        margin-left: 1rem;
+    }
+  
+}
+
+
+@media (min-width:770px) and (max-width :1024px) {
+    .portfolio{ 
+        height: 30rem; 
+    }
+    img{
+    
+        max-height: 10rem;
+        width: 10rem;
+       
+    }
+    .popup{
+        
+        margin-left: 1.3rem;
+        margin-top: 2.4rem;
+        
+    }
+   
+}

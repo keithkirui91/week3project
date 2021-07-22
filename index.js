@@ -1,37 +1,11 @@
+/*WHAT WE DO DIV */
 var newDivOne = document.getElementById("newDivOne");
 var newDivTwo = document.getElementById("newDivTwo");
 var newDivThree = document.getElementById("newDivThree");
 
-
-var portfolioOne = document.getElementById("portfolioOne");
-var portfolioTwo = document.getElementById("portfolioTwo");
-var portfolioThree = document.getElementById("portfolioThree");
-var portfolioFour = document.getElementById("portfolioFour");
-var portfolioFive = document.getElementById("portfolioFive");
-var portfolioSix = document.getElementById("portfolioSix");
-var portfolioSeven= document.getElementById("portfolioSeven");
-var portfolioEight = document.getElementById("portfolioEight");
-
-
-
-
 newDivOne.style.display = "none";
 newDivTwo.style.display = "none";
 newDivThree.style.display = "none";
-
-
-
-
-portfolioOne.style.display = "none";
-portfolioTwo.style.display = "none";
-portfolioThree.style.display = "none";
-portfolioFour.style.display = "none";
-portfolioFive.style.display = "none";
-portfolioSix.style.display = "none";
-portfolioSeven.style.display = "none";
-portfolioEight.style.display = "none";
-
-
 
 
 function myTogglerOne(){
@@ -74,15 +48,31 @@ function myTogglerThree(){
   }
 }
 
-    
+
+
+/*PORTFOLIO WHITE BOX */
+var portfolioOne = document.getElementById("portfolioOne");
+var portfolioTwo = document.getElementById("portfolioTwo");
+var portfolioThree = document.getElementById("portfolioThree");
+var portfolioFour = document.getElementById("portfolioFour");
+var portfolioFive = document.getElementById("portfolioFive");
+var portfolioSix = document.getElementById("portfolioSix");
+var portfolioSeven= document.getElementById("portfolioSeven");
+var portfolioEight = document.getElementById("portfolioEight");
 
 
 
 
-function submitFunction(){
-    alert("Thanks...Your message has been submitted");
 
-}
+portfolioOne.style.display = "none";
+portfolioTwo.style.display = "none";
+portfolioThree.style.display = "none";
+portfolioFour.style.display = "none";
+portfolioFive.style.display = "none";
+portfolioSix.style.display = "none";
+portfolioSeven.style.display = "none";
+portfolioEight.style.display = "none";
+
 
 
 /*one*/
@@ -214,4 +204,16 @@ function portfolioEightOut(){
     portfolioEight.style. display = "none";
   }
 }
+
+
+    
+
+
+
+/*POP UP ON SUBMIT*/
+function submitFunction(){
+  alert("Thanks...Your message has been submitted");
+
+}
+
 

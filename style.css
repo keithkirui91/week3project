@@ -75,27 +75,12 @@ h2{
     width: 100%;
     
 }
-.row .column{
-    flex: 20%;
-    width: auto;
-    height: 10rem;
-    text-align: center;
-    
-}
-p{
-    font-size: 1rem;
-}
-
-h3{
-    margin-bottom: 0;
-    font-size: 1rem;
-   
-}
-.column{
+.first-col{
     background-color: rgb(255, 255, 255);
+    
 
 }
-.column:hover{
+.first-col:hover{
     background-color: aqua;
     cursor: pointer;
 }
@@ -105,6 +90,24 @@ h3{
     width: 4.5rem;
 
 }
+.row .column{
+    flex: 20%;
+    width: auto;
+    height: 10rem;
+    text-align: center;
+    
+}
+
+p{
+    font-size: 1rem;
+}
+
+h3{
+    margin-bottom: 0;
+    font-size: 1rem;
+   
+}
+
 .portfolio{
     height: 23rem; 
     background-color: rgb(255, 255, 255);

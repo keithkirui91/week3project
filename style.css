@@ -125,14 +125,16 @@ h3{
 }
 .popup{
     
-    margin-left: 4rem;
+    margin-left: 2.4rem;
+    font-weight: bold;
     margin-top: 4rem;
     position: absolute;
-    height: 3rem;
-    border-radius: 3px;
+    height: auto;
+    width: 9rem;
+    border-radius: 2px;
     display: none;
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(49, 2, 2);
     background-color: #fff;
     
 }

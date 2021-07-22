@@ -81,7 +81,6 @@ h2{
 
 }
 .first-col:hover{
-    background-color: aqua;
     cursor: pointer;
 }
 
@@ -119,11 +118,28 @@ h3{
     width: 72%;
     align-self: center;
 }
-
+.my-col{
+    text-align: center;
+    
+    
+}
+.popup{
+    
+    margin-left: 4rem;
+    margin-top: 4rem;
+    position: absolute;
+    height: 3rem;
+    border-radius: 3px;
+    display: none;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: #fff;
+    
+}
 img{
     max-height: 12rem;
     width: 12rem;
-    padding: -5rem;
+    padding-bottom: 1rem;
     cursor: pointer;
 }
 

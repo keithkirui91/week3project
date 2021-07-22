@@ -1,3 +1,6 @@
+function myToggler(){
+    alert("GOD IS EVERYTHING");
+}
 
 
 function submitFunction(){

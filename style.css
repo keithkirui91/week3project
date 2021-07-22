@@ -91,30 +91,15 @@ h3{
     font-size: 1rem;
    
 }
-.first-col{
+.column{
     background-color: rgb(255, 255, 255);
 
 }
-.first-col:hover{
+.column:hover{
     background-color: aqua;
     cursor: pointer;
 }
-.second-col{
-    background-color: rgb(255, 255, 255);
 
-}
-.second-col:hover{
-    background-color: aqua;
-    cursor: pointer;
-}
-.third-col{
-    background-color: rgb(255, 255, 255);
-
-}
-.third-col:hover{
-    background-color: aqua;
-    cursor: pointer;
-}
 .whatwedo-img{
     height: 4.5rem;
     width: 4.5rem;
@@ -136,6 +121,7 @@ img{
     max-height: 12rem;
     width: 12rem;
     padding: -5rem;
+    cursor: pointer;
 }
 
 .contact-us{

@@ -24,5 +24,8 @@ no known bugs
 ## Support and contact details
 Kindly contact me on keith.kirui33@gmail.com if necessery.
 
+## link to live site
+https://keithkirui91.github.io/week3project/
+
 
   
